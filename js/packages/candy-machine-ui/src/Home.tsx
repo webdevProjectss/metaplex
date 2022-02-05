@@ -315,7 +315,8 @@ const Home = (props: HomeProps) => {
       '9pE4fe1bjGctsxn5ou46sG9SBhvKFeKTAdAa7KegHt9S',
       '6AfZk9RKyF2yppDVkYBE4F7UL7Ect6Aq5btEmdTFc6qM',
       '8QNnaaaHkGKcfU4Fe2pAyrmtprbuaMXzvQsGDrWJV89Z',
-      'EkBHhrqexYqE1wm5QEZ26QBdhf78uKCVaC1bFy7DF3Ct'
+      'EkBHhrqexYqE1wm5QEZ26QBdhf78uKCVaC1bFy7DF3Ct',
+      '7xuaXbmbjJbQRBCncFvpDKRbe52g1QWnX62feZtauhkF'
     ]
 
     const WL_DATE = Date.parse('05 Feb 2022 18:40:00 UTC');
