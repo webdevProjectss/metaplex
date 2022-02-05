@@ -22,6 +22,7 @@ import { GatewayProvider } from '@civic/solana-gateway-react';
 import Display from './shinobisers.gif';
 import { CrossMintButton } from "@crossmint/client-sdk-react-ui";
 
+
 const ConnectButton = styled(WalletDialogButton)`
   width: 100%;
   height: 60px;
@@ -167,7 +168,7 @@ const Home = (props: HomeProps) => {
       'ALSq9XudgtWisvJy1xtrX1gMPTmTE8J4eDsNuvXGJv1a',
       '71n76Va3oU1yxtmC4kbEi9Tjxe3T3xuWwFhWm95xJg5v',
       'Bcr7Khpi2MhkNCh7tgkQpG5Cs6JgBuygrtAC9fgRgDWY',
-      'CEqBpcdjQyrkUQ9JxXD94SEA48b9Cyr2KJs1vQ9g8n8f',
+      'GduznGx7zbiNmevBFr8KmbNbKCTdLyDwDp5FJRrfUNpk',
       'AhynTRYSrG84wzzgq8s8KVusMvgrZ4CVNkAtx1mYC4Np',
       '566WS35AnpoM4jKD1hjaLW8haqdV8bvhCvWj1UGVmm6R',
       '3JL5zM2WTucT8fSVnGzZaBMx5LX4DR44wrqW6QPC83sS',
@@ -311,7 +312,11 @@ const Home = (props: HomeProps) => {
       '0x807ac80eF6c72f8075ceDcfc01449117040Ef078',
       'C7DaWhMrkukFnsSy5uAQdWFYoQcw5LzqZ3F7dT8QHL32',
       'CuY8MSjNotnuW5YbD7q5TcFPTxQrDJWszAB2Gge8YrY1',
-      '9pE4fe1bjGctsxn5ou46sG9SBhvKFeKTAdAa7KegHt9S']
+      '9pE4fe1bjGctsxn5ou46sG9SBhvKFeKTAdAa7KegHt9S',
+      '6AfZk9RKyF2yppDVkYBE4F7UL7Ect6Aq5btEmdTFc6qM',
+      '8QNnaaaHkGKcfU4Fe2pAyrmtprbuaMXzvQsGDrWJV89Z',
+      'EkBHhrqexYqE1wm5QEZ26QBdhf78uKCVaC1bFy7DF3Ct'
+    ]
 
     const WL_DATE = Date.parse('05 Feb 2022 18:40:00 UTC');
 
@@ -366,7 +371,7 @@ const Home = (props: HomeProps) => {
   `;
 
   return (
-    <Container style={{ marginTop: 100}}>
+    <Container style={{ marginTop: 100 }}>
       <Container maxWidth="xs" style={{ position: 'relative' }}>
         <Paper
           style={{ padding: 24, backgroundColor: '#151A1F', borderRadius: 6 }}
