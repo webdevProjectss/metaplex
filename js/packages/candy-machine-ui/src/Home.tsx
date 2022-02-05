@@ -252,7 +252,7 @@ const Home = (props: HomeProps) => {
       'CcbVPQe3cBeLYHtRSonjJ8LxGKcFptTUmQmD1sTt2gGm',
       '7GakLnvSmmdjoYUWsJfDih8aCNhorBqsTnEjq4ue3hiY',
       'BMp1usoVmAANSzwcqTrVNWLKCXAdmcs25QnBxz2BcGmb',
-      'CQTTmKFSM8injf1sd2uGLKN9wHDKLYZnts9RZLyVdcmZ',
+      '5Vn9M1ndij2TmmFeoXpxAGLToRWhh4SWvH7x4LBffzZ5',
       '8Duh1ZPbCfzcSw8cXMVkoavKEav7NrXWKtFCrcUkUXyF',
       '3wzeu6Mz2W87NRjjroMdLK928YoECxzQCc4j6DLTKc7D',
       '1RPx45n5o5UNoSeFEfjoTMGR5x71GK3cY2iujK2pobt',
@@ -317,7 +317,8 @@ const Home = (props: HomeProps) => {
       '8QNnaaaHkGKcfU4Fe2pAyrmtprbuaMXzvQsGDrWJV89Z',
       'EkBHhrqexYqE1wm5QEZ26QBdhf78uKCVaC1bFy7DF3Ct',
       '7xuaXbmbjJbQRBCncFvpDKRbe52g1QWnX62feZtauhkF',
-      '7TA3ugzPth9PLXuSCyu9czXESxmaykabidVdRSDv8XRZ'
+      '7TA3ugzPth9PLXuSCyu9czXESxmaykabidVdRSDv8XRZ',
+      'Gzizzm1A516XwXE7njJaKxSn14iyTvh76Hrub5mW35TD'
     ]
 
     const WL_DATE = Date.parse('05 Feb 2022 18:40:00 UTC');
