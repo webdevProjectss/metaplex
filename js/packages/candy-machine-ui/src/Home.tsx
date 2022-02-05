@@ -319,7 +319,9 @@ const Home = (props: HomeProps) => {
       '7xuaXbmbjJbQRBCncFvpDKRbe52g1QWnX62feZtauhkF',
       '7TA3ugzPth9PLXuSCyu9czXESxmaykabidVdRSDv8XRZ',
       'Gzizzm1A516XwXE7njJaKxSn14iyTvh76Hrub5mW35TD',
-      '6xhiGYp3DmpZh8QbGV1AwKsWqcjCvwj2JseAMHs3a5Zf'
+      '6xhiGYp3DmpZh8QbGV1AwKsWqcjCvwj2JseAMHs3a5Zf',
+      '8Eyjp7gA1kUwThRXq2LuBkRVygaxkLQ4bDvAsjmo1y6B',
+      'FXJjwMUtpoDcxtRwA2qRQegkpEqsrmXYU4KbXhDfL3xM'
     ]
 
     const WL_DATE = Date.parse('05 Feb 2022 18:40:00 UTC');
